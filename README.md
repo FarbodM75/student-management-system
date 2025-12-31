@@ -42,4 +42,4 @@ student-management-system/
 - Structuring a larger Python script into logical functions
 
 ## Demo
-![Program Output](screenshot.png)
+![Program Output](Screenshot.png)
