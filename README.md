@@ -40,3 +40,6 @@ student-management-system/
 - Working with persistent file-based storage
 - Updating existing records safely
 - Structuring a larger Python script into logical functions
+
+## Demo
+![Program Output](screenshot.png)
